@@ -1,0 +1,36 @@
+{
+    "sensor": {
+       " labels": "['January', 'February', 'March', 'April', 'May']",
+        "datasets": [
+            {
+                "label": "Value",
+               " backgroundColor": "rgba(75,192,192,1)",
+                "borderColor": "rgba(0,0,0,1)",
+                "borderWidth": 2,
+                "data": [65, 59, 80, 81, 56]
+            }
+        ]
+    },
+    "weather": [
+        {
+           " name": "Perciptitation Intensity",
+            "value": 81
+        },
+        {
+            "name": "Perciptitation Probablity",
+            "value": 90
+        },
+        {
+            "name": "Pressure",
+            "value": 81
+        },
+        {
+            "name": "Wind Speed",
+            "value": 81
+        },
+        {
+            "name": "Wind Direction",
+            "value": 81
+        }
+    ]
+}
